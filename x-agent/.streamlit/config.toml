@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#1DA1F2"
+
+[server]
+headless = true
+enableCORS = false
